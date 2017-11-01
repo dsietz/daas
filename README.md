@@ -1,6 +1,6 @@
 ![DaaS](./img/daas-logo-medium.png?raw=true)
 
-Data as a Service (DaaS) is an architecture pattern that leverages microservice, message broker, and databases to replace the traditional ETL process (batched provisioning for predefined DDLs) with an event driven plugin model to provide horizontal scaling, "real-time" reports, and MVP deliverables.
+Data as a Service (DaaS) is an architecture pattern that leverages microservice, message broker, and database components to replace the traditional ETL process (_batched provisioning for predefined DDLs_) with an event driven plugin model to provides horizontal scaling, "real-time" reporting, and MVP deliverables.
 
 ---
 
