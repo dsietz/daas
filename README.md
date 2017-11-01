@@ -28,9 +28,9 @@ Data as a Service (DaaS) is an architecture pattern that leverages microservice,
 2. Add the Talend Big Data Components plugin directory (e.g.: org.talend.designer.components.bigdata_6.1.2.20160912_1228) to your installed Talend Studio for ESB. This can be found from the [Talend Big Data](https://www.talend.com/download/talend-open-studio) Product and should be placed in {TALEND_HOME}/Studio/plugins directory
 3. Download and [import](https://help.talend.com/reader/JdTBzKszzXoWvjpEJD3EBA/lMPZvSCXafXZZdxHFEHmTg) the [DAAS_EXAMPLE](./example/DAAS_EXAMPLE.zip) project
 4. Update your properties files accordingly (CouchDB and Kafka settings) located in the Talend Project workspace (e.g.: {TALEND_HOME}/Studio/workspace/DAAS_EXAMPLE)
-  + sourcing.properties
-  + provisioning.properties
-  + consuming.properties
+>  + sourcing.properties
+>  + provisioning.properties
+>  + consuming.properties
 
 ---
 
