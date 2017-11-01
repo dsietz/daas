@@ -5,12 +5,16 @@ Data as a Service (DaaS) is an architecture pattern that leverages microservice,
 ---
 
 ## Data as a Service - Overview
-#### [Overview Presentation](./doc/Data as a Service.pptx)
+#### Presentation
+>[Overview Presentation](./doc/Data as a Service.pptx)
+
 ![DaaS](img/daas-pattern.png?raw=true)
 
 
 ## Data as a Service - Example
-#### [Example Presentation](./doc/Data as a Service - Example.pptx)
+#### Presentation
+>[Example Presentation](./doc/Data as a Service - Example.pptx)
+
 #### Videos
 + [Adding a Component](./img/01_add_component.webm)
 + [Creating a Subjob](./img/02_subjob_upsert_json_document_test_01.webm)
