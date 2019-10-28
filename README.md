@@ -4,11 +4,10 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 
 ---
 
-#### Presentations
+### Presentation
 >[DaaS Overview](./doc/Data%20as%20a%20Service.pptx)
 
-## Data as a Service - Example
-#### Presentation
+### Examples
 + [Building DaaS with Rust](https://github.com/dsietz/rust-daas)
   + [Workshop Manual](https://davidsietz.gitbook.io/workspace/) 
 + [Building DaaS with Talend](./doc/Data%20as%20a%20Service%20-%20Example.pptx)
