@@ -8,7 +8,7 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 The DaaS Pattern is the cobination of three logical components _Data Model_, _Processing_, and _Eventing_.
 
 #### Data Model
-> The _data model_ mimics an envelope with metadata as the wrapper and the data object as the content. Because of this data model, the orchestration of the eventing can be driven by the data and does not have to be preconfigured.
+> The _data model_ mimics an envelope, (DaaS Document) with metadata as the wrapper and the data object as the content. Because of this data model, the orchestration of the eventing can be driven by the data and does not have to be preconfigured.
 
 <img src="./img/arch-data-model.png" alt="Metadata Wrapper Data Model" width="300"/>
 
