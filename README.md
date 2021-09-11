@@ -5,8 +5,8 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 ---
 
 ## High Level Architecture
-![Data Model](./img/arch-data-model.png)
-![Brokering with Microservices](./img/arch-brokering.png)
+![Data Model](./img/arch-data-model.png "Metadata Wrapper Data Model")
+![Brokering with Microservices](./img/arch-brokering.png "Brokering wiht Microservices")
 
 ---
 
