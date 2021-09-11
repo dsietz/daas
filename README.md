@@ -5,9 +5,15 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 ---
 
 ## High Level Architecture
-<img src="./img/arch-data-model.png" alt="Metadata Wrapper Data Model" width="200"/>
-![Data Model](./img/arch-data-model.png "Metadata Wrapper Data Model")
-![Brokering with Microservices](./img/arch-brokering.png "Brokering wiht Microservices")
+The DaaS Pattern is the cobination of three logical components Data Model, Processing, Eventing.
+
+#### Data Model
+> The data model mimics an envelope with metadata as the wrapper and the data object as the content.
+<img src="./img/arch-data-model.png" alt="Metadata Wrapper Data Model" width="300"/>
+
+#### Processing and Eventing
+> The processing can be supported by microservices or serverless functions while the role of eventing is fulfilled by a broker.
+<img src="./img/arch-brokering.png" alt="Brokering wiht Microservices" width="300"/>
 
 ---
 
