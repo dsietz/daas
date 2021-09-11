@@ -4,6 +4,12 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 
 ---
 
+## High Level Architecture
+![Data Model](./img/arch-data-model.png)
+![Brokering with Microservices](./img/arch-brokering.png)
+
+---
+
 ### DaaS SDK
 + [Rust-Lang](https://crates.io/crates/daas)
 
