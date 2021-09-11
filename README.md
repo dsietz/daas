@@ -8,12 +8,12 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 The DaaS Pattern is the cobination of three logical components _Data Model_, _Processing_, and _Eventing_.
 
 #### Data Model
-> The data model mimics an envelope with metadata as the wrapper and the data object as the content. Because of this data model, the orchestration of the eventing can be driven by the data and does not have to be preconfigured.
+> The _data model_ mimics an envelope with metadata as the wrapper and the data object as the content. Because of this data model, the orchestration of the eventing can be driven by the data and does not have to be preconfigured.
 
 <img src="./img/arch-data-model.png" alt="Metadata Wrapper Data Model" width="300"/>
 
 #### Processing and Eventing
-> The processing can be supported by microservices or serverless functions while the role of eventing is fulfilled by a broker. Since brokering supports the publish/subscribe pattern, a plugin model of data provisioning steps (microservices) can be easily added/removed and even allow for branched parallel processing on a singluar data message.  
+> The _processing_ can be supported by microservices or serverless functions, while the role of _eventing_ is fulfilled by a broker. Since brokering supports the publish/subscribe pattern, a plugin model of data provisioning steps (microservices) can be easily added/removed and even allow for branched parallel processing on a singluar data message.  
 
 <img src="./img/arch-brokering.png" alt="Brokering wiht Microservices" width="300"/>
 
