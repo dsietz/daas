@@ -4,22 +4,10 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 
 ---
 
-### Presentation
->[DaaS Overview](./doc/Data%20as%20a%20Service.pptx)
 
-### Examples
-+ [Building DaaS with Rust](https://github.com/dsietz/rust-daas)
-  + [Workshop Manual](https://davidsietz.gitbook.io/workspace/) 
-+ [Building DaaS with Talend](./doc/Data%20as%20a%20Service%20-%20Example.pptx)
-  + [Talend Project](./example/DAAS_EXAMPLE.zip)
-  + [Adding a Component](./img/01_add_component.webm)
-  + [Creating a Subjob](./img/02_subjob_upsert_json_document_test_01.webm)
-  + [Creating a Sourcing REST Service](./img/03_rest_sourcing_data.webm)
-  + [Creating a Provisioning Service](./img/04_provisioning_data.webm)
-  + [Creating a Consuming REST Service](./img/05_rest_consuming_data.webm)
 
 ---
 
-### ArchConf 2019
-+ [Data as a Service Overview](https://archconf.com/session?id=44831)
-+ [Hands-On experience with Data as a Service](https://archconf.com/session?id=44829)
+### Conferences
++ [Uberconf](https://uberconf.com)
++ [ArchConf](https://archconf.com/)
