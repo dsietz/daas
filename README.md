@@ -4,7 +4,8 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 
 ---
 
-
+### DaaS SDK
++ [Rust-Lang](https://crates.io/crates/daas)
 
 ---
 
