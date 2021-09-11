@@ -5,7 +5,7 @@ The Data as a Service (DaaS) pattern allows for the delivery of the Minimal Viab
 ---
 
 ## High Level Architecture
-The DaaS Pattern is the cobination of three logical components _Data Model_, _Processing_, _Eventing_.
+The DaaS Pattern is the cobination of three logical components _Data Model_, _Processing_, and _Eventing_.
 
 #### Data Model
 > The data model mimics an envelope with metadata as the wrapper and the data object as the content.
