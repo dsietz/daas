@@ -13,7 +13,7 @@ The DaaS Pattern is the cobination of three logical components _Data Model_, _Pr
 <img src="./img/arch-data-model.png" alt="Metadata Wrapper Data Model" width="300"/>
 
 #### Processing and Eventing
-> The _processing_ can be supported by microservices or serverless functions, while the role of _eventing_ is fulfilled by a broker. Since brokering supports the publish/subscribe pattern, a plugin model of data provisioning steps can be easily added/removed and it even allows for branched parallel processing on a singluar data message.  
+> The _processing_ can be supported by microservices or serverless functions, while the role of _eventing_ is fulfilled by a broker. Since brokering supports the publish/subscribe pattern, a plugin model of data provisioning steps can be easily added/removed and it even allows for forked parallel processing on a singluar data message.  
 
 <img src="./img/arch-brokering.png" alt="Brokering wiht Microservices" width="300"/>
 
